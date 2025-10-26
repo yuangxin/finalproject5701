@@ -1,0 +1,52 @@
+{
+  "paraphrase_5": {
+    "sentences": [
+      "Plagiarism detection is an essential concern in the education field, particularly in academic writing.",
+      "Schools require fair methods to verify work so that students are assessed on their own ideas rather than copied content.",
+      "Most contemporary detection tools primarily depend on word-level text matching, which works for direct copying but often misses paraphrased or rewritten text.",
+      "With the widespread adoption of AI-based writing and paraphrasing tools, traditional plagiarism detection methods that rely on surface-level text matching are becoming insufficient, as rephrased content can easily evade them.",
+      "Therefore, it is essential to develop systems that can identify semantic similarity between texts, as they can recognize when texts communicate the same ideas.",
+      "Such an approach can catch plagiarism more accurately and help uphold academic integrity."
+    ]
+  },
+  "paraphrase_4": {
+    "sentences": [
+      "Plagiarism detection is a vital issue in education, especially in academic writing.",
+      "Schools need fair mechanisms to assess work, ensuring students are evaluated based on their own ideas rather than copied content.",
+      "Most current detection tools rely on word-level matching, which works well for direct copying but often fails with paraphrased or rewritten text.",
+      "As AI-based writing and paraphrasing tools become more widespread, traditional plagiarism detection methods that rely on surface-level text matching are becoming insufficient, as rephrased content can easily bypass them.",
+      "Therefore, developing systems capable of identifying semantic similarities between texts is necessary, as they can recognize when texts convey the same ideas.",
+      "Such an approach can more accurately detect plagiarism and support academic integrity."
+    ]
+  },
+  "paraphrase_3": {
+    "sentences": [
+      "Detecting plagiarism is a major concern in education, specifically in academic writing.",
+      "Educational institutions need fair ways to evaluate work to ensure students are judged on their original ideas rather than borrowed content.",
+      "Most current detection tools rely on word-level text matching, which is effective for direct copies but often fails with paraphrased or rewritten content.",
+      "With the increasing use of AI-based writing and paraphrasing tools, traditional plagiarism detection methods that focus on superficial text matching are becoming inadequate, as rephrased content can easily bypass them.",
+      "Thus, developing systems that can identify semantic similarities between texts is crucial, as they can detect when texts communicate the same ideas.",
+      "This approach can more accurately catch plagiarism and help preserve academic integrity."
+    ]
+  },
+  "paraphrase_2": {
+    "sentences": [
+      "In the realm of education, particularly in academic writing, plagiarism detection is a significant issue.",
+      "Schools need equitable methods to assess work, ensuring students are evaluated based on their original ideas rather than copied content.",
+      "Most contemporary detection tools rely on word-level text matching, which is effective for direct copying but often misses paraphrased or rewritten text.",
+      "As AI-based writing and paraphrasing tools become more prevalent, traditional plagiarism detection methods, which depend on superficial text matching, are proving inadequate since rephrased content can easily evade them.",
+      "Therefore, it is necessary to develop systems that can identify semantic similarities between texts, as they can recognize when texts express the same ideas.",
+      "Such an approach can more accurately capture plagiarism and help maintain academic integrity."
+    ]
+  },
+  "paraphrase_1": {
+    "sentences": [
+      "Plagiarism detection is a crucial concern in the education sector, especially within academic writing.",
+      "Educational institutions require fair methods to evaluate work, ensuring students are assessed based on their own ideas rather than copied content.",
+      "Most existing detection tools primarily depend on word-level text matching, which is effective for direct copying but often fails with paraphrased or rewritten text.",
+      "With the growing use of AI-based writing and paraphrasing tools, traditional plagiarism detection techniques that focus on surface-level text matching are becoming inadequate, as rephrased content can easily elude them.",
+      "Thus, it's essential to develop systems capable of identifying semantic similarity between texts, as they can detect when texts convey the same ideas.",
+      "This approach can more accurately identify plagiarism and help uphold academic integrity."
+    ]
+  }
+}
